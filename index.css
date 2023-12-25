@@ -48,9 +48,11 @@
         flex-direction: row;
         align-items: start;
         justify-content: space-evenly;
+        float: left;
+            overflow: hidden;
 }
 .card2{
-    background-image: url("nemo3");
+   
     background-size: cover;
     
     
@@ -68,6 +70,11 @@
     margin-top: 5px;
 
 
+}
+.image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 
