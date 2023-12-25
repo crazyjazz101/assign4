@@ -1,0 +1,73 @@
+.container{
+    background-color: orange;
+    height: 140vh;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+.card{
+    background-image: url("nemo");
+    background-size: cover;
+    justify-content: end;
+    height: 60vh;
+    width: 30vw;
+    border: none;
+    border-radius: 5px;
+}
+.tour {
+    background-color: orange;
+    height: 5vh;
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    border: none;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight: 600;
+    font-style: normal;
+    padding-left: 4px;
+    padding-top: 3px;
+}
+.less{
+    background-color: orange;
+    height: 32vh;
+    font-size: small;
+    font-weight: 100;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.gill{
+    background-color: orange;
+        height: 30vh;
+        display: flex;
+        flex-direction: row;
+        align-items: start;
+        justify-content: space-evenly;
+}
+.card2{
+    background-image: url("nemo3");
+    background-size: cover;
+    
+    
+        height: 30vh;
+        width: 9vw;
+        border: none;
+        border-radius: 5px;
+}
+.brle{
+    background-color: orange;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5px;
+
+
+}
+
+
